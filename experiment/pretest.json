@@ -2,35 +2,52 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. What are the parameters crucial for studying micro-scratching?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Material density",
+        "b": "Load applied",
+        "c": "Presence of lubricant",
+        "d": "None of the options "
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Material density and presence of lubricant are not crucial for micro-scratching experiment. The selection of proper indenter and the load applied on the indenter are essential parameters for analysing micro-scratching. Therefore, option b is the answer. ",
+        "b": "Material density and presence of lubricant are not crucial for micro-scratching experiment. The selection of proper indenter and the load applied on the indenter are essential parameters for analysing micro-scratching. Therefore, option b is the answer. ",
+        "c": "Material density and presence of lubricant are not crucial for micro-scratching experiment. The selection of proper indenter and the load applied on the indenter are essential parameters for analysing micro-scratching. Therefore, option b is the answer. ",
+        "d": "Material density and presence of lubricant are not crucial for micro-scratching experiment. The selection of proper indenter and the load applied on the indenter are essential parameters for analysing micro-scratching. Therefore, option b is the answer. "
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. The temperature of micro-scratching : ",
+      "answers": {
+        "a": "Affects the mechanism of wear damage",
+        "b": "Has no effect on wear",
+        "c": "Leads to constant debris generation",
+        "d": "None of the options"
+      },
+      "explanations": {
+        "a": "The local temperature attained at the site of micro-scratching is essential to ascertain the mechanism of wear. The changes in temperature can lead to change in wear mechanisms. The correct answer is option a. ",
+        "b": "The local temperature attained at the site of micro-scratching is essential to ascertain the mechanism of wear. The changes in temperature can lead to change in wear mechanisms. The correct answer is option a. ",
+        "c": "The local temperature attained at the site of micro-scratching is essential to ascertain the mechanism of wear. The changes in temperature can lead to change in wear mechanisms. The correct answer is option a. ",
+        "d": "The local temperature attained at the site of micro-scratching is essential to ascertain the mechanism of wear. The changes in temperature can lead to change in wear mechanisms. The correct answer is option a. "
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "3. What is the effect of material selection on micro-scratching :",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "No change in wear properties ",
+        "b": "lubricant governs the wear of the sample ",
+        "c": "The sample and the indenter both are crucial for examining wear during micro-scratching ",
+        "d": "None of the options "
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The choice of material of the indenter is very important along with the material of the sample. In case of micro-scratching, the presence of lubricant may not affect the wear. Therefore, option c is the correct answer. ",
+        "b": "The choice of material of the indenter is very important along with the material of the sample. In case of micro-scratching, the presence of lubricant may not affect the wear. Therefore, option c is the correct answer. ",
+        "c": "The choice of material of the indenter is very important along with the material of the sample. In case of micro-scratching, the presence of lubricant may not affect the wear. Therefore, option c is the correct answer. ",
+        "d": "The choice of material of the indenter is very important along with the material of the sample. In case of micro-scratching, the presence of lubricant may not affect the wear. Therefore, option c is the correct answer. "
       },
       "correctAnswer": "c",
       "difficulty": "beginner"

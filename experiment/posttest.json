@@ -2,37 +2,54 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. If the sliding speed is increased, what is the general observation? ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "The wear rate decreases ",
+        "b": "No change in wear rate is observed ",
+        "c": "The wear rate increases ",
+        "d": "None of the options  "
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "It is generally observed that increase in sliding speed increases the wear rate.  Therefore, option c is the answer.  ",
+        "b": "It is generally observed that increase in sliding speed increases the wear rate.  Therefore, option c is the answer.  ",
+        "c": "It is generally observed that increase in sliding speed increases the wear rate.  Therefore, option c is the answer.  ",
+        "d": "It is generally observed that increase in sliding speed increases the wear rate.  Therefore, option c is the answer.  "
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. The change in wear characteristics due to change in sliding speed will be observed by : ",
+      "answers": {
+        "a": "weight loss/ volume loss method ",
+        "b": "Using measuring scale ",
+        "c": "Using thermocouple ",
+        "d": "None of the options "
+      },
+      "explanations": {
+        "a": "As noted in the methods of observing the wear characteristics of materials, weight loss and volume loss observations are the two routes of studying wear. The correct answer is option a. ",
+        "b": "As noted in the methods of observing the wear characteristics of materials, weight loss and volume loss observations are the two routes of studying wear. The correct answer is option a. ",
+        "c": "As noted in the methods of observing the wear characteristics of materials, weight loss and volume loss observations are the two routes of studying wear. The correct answer is option a. ",
+        "d": "As noted in the methods of observing the wear characteristics of materials, weight loss and volume loss observations are the two routes of studying wear. The correct answer is option a. "
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "3. The measurement of temperature is also important while changing sliding speed : ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Rise in temperature can alter wear rate ",
+        "b": "Noting temperature is not important ",
+        "c": "The temperature of sample does not change with change in wear sample ",
+        "d": "None of the options"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "As the wear rate is dependent on the temperature and contact surface area. The temperature of the sample changes with increase in sliding speed. Therefore, option a is the correct answer.  ",
+        "b": "As the wear rate is dependent on the temperature and contact surface area. The temperature of the sample changes with increase in sliding speed. Therefore, option a is the correct answer.  ",
+        "c": "As the wear rate is dependent on the temperature and contact surface area. The temperature of the sample changes with increase in sliding speed. Therefore, option a is the correct answer.  ",
+        "d": "As the wear rate is dependent on the temperature and contact surface area. The temperature of the sample changes with increase in sliding speed. Therefore, option a is the correct answer.  "
       },
-      "correctAnswer": "c",
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
