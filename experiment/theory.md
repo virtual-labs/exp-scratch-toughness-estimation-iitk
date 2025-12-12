@@ -7,7 +7,7 @@ A wide range of material failure methods have been described in the scratch test
 The critical load on the stylus is ascertained by piezoelectric detectors that are attached to the stylus. Based on the response of the detector, the load on the stylus can be controlled. Friction between the materials involved (sample and stylus tip) is an important factor in determining the wear characteristics of the material. The variations in the friction forces can be used as measures for the onset of the cracking and the material penetration and/or detachment. 
 <br>
 
-<b>Micro-scratching and wear of materials : </b><br><br>
+<b>Micro-scratching and wear of materials : </b><br>
 
 The conventional scratching experiment is modified to accommodate for the changes in loading. One of the methods can be to linearly increase the applied normal load. One of the key operations while performing the scratch test is the calibration of the device. The selection of stylus for the test is also very crucial, as worn stylus can affect the wear results. Use of reference material for calibration is generally encouraged prior to the actual scratch test. Figure 1 describes a simplified schematic diagram of micro-scratching experiment. The effects of the ramp loading are also observed.  <br>
 
