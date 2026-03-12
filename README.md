@@ -14,11 +14,11 @@ Ramp loading and estimation of scratch toughness in materials.
 :--|:--|
 <b> Institute | <b>  IIT Kanpur
 <b> Email id|    <b>  nchawake@iitk.ac.in, arunabhm@iitk.ac.in
-<b> Department |  Mechanical Engineering
+<b> Department |  Materials Science and Engineering
 
 ### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 |   | Student | Mechanical Engineering | | 
+1 | Harsh Dwivedi  | . | Materials Science and Engineering |IIT Kanpur| harshd@iitk.ac.in
 
